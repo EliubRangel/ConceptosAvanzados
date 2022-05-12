@@ -7,7 +7,7 @@ namespace ConceptosAvanzados
             decimal division= num1/num2;
             return division;
         }
-        
+    } 
 
-    }
+
 }
